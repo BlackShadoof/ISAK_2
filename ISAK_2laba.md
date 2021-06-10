@@ -58,7 +58,8 @@
 
 13. Приостановим выполнение процесса сочетанием клавиш Ctrl + z![image-20210529000137602](https://user-images.githubusercontent.com/55539754/120043306-60bfe600-c014-11eb-96aa-d02e1a569776.png)
 
-14. Переведем процедуру в интерактивный режим![image-20210529000315225](https://user-images.githubusercontent.com/55539754/120043311-65849a00-c014-11eb-96ac-8b974159efe0.png)
+14. Переведем процедуру в интерактивный режим![2021-06-02_18-48-57](https://user-images.githubusercontent.com/67752728/121504232-853f9900-c9ea-11eb-9753-c10e57f13ed6.png)
+
 
 15. Завершим выполнение процесса с помощью команды kill.![image-20210529000344832](https://user-images.githubusercontent.com/55539754/120043323-6c131180-c014-11eb-848b-4127d258f5c6.png)
 
